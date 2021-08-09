@@ -28,4 +28,4 @@
   ![Snake animation](https://github.com/EltonGomes555/EltonGomes555/blob/output/github-contribution-grid-snake.svg)
     
 </div>
--->
+
