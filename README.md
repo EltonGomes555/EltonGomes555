@@ -27,6 +27,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/elton-gomes-01322026" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" t arget="_blank"></a>
    <a href="https://twitter.com/eltgo5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" t arget="_blank"></a>
+  
+  ![Snake animation](https://github.com/EltonGomes555/EltonGomes555/blob/output/github-contribution-grid-snake.svg)
       
 </div>
 
