@@ -2,7 +2,7 @@
 
 - 🔭 Analista de Engenharia em aprendizado
 - 🌱 Estudando front e back end
-- 😄 Pronouns: ele/dele
+
 
 
 <div>
